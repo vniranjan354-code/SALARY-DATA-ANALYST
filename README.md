@@ -76,4 +76,4 @@ The steps for Data Cleaning are as follows :
 4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (data outliers) in the ‘salary_in_usd' column, so that the total data becomes 552.
 5. Remove unnecessary data
 
--- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
+-- THANK YOU [@NIRANJAN v](https://www.linkedin.com/in/niranjan-v-b3625b289) --
