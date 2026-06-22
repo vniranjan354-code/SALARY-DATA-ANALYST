@@ -53,7 +53,7 @@ This dataset contains information as follows :
 
 -----------------------------------------------------------------------------------
 
-I took this project from the study case assignment Mini Course Data Analytics Revou in the batch from July 25 to August 5, 2022
+I took this project from the study case assignment Mini Course Data Analytics Revou in the batch from may 5 to june 15, 2026
 
 This Salary Dataset Project uses various tools, namely :
 1. **Python with Google Colab** to *view data and perform data cleaning* before data is used,
